@@ -9,8 +9,7 @@ Interjejktionen
 </head>
 <body>
 <h1>Interjektionen im DWDS-Wörterbuch</h1>
-<p>Diese Liste enthält alle Interjektionen, die im DWDS-Wörterbuch verzeichnet sind. Die Daten wurden von der DWDS-Website heruntergeladen und mittels SQL und Regex verarbeitet.</p>
-<h2>Liste der Interjektionen </h2>
+<p>Diese Liste enthält alle Interjektionen, die im DWDS-Wörterbuch verzeichnet sind. </h2>
 <ul>
     <li><a href="https://www.dwds.de/wb/absolut">absolut</a></li>
     <li><a href="https://www.dwds.de/wb/ach">ach</a></li>
