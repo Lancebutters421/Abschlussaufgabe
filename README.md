@@ -1,5 +1,4 @@
 # Abschlussaufgabe
-Interjejktionen
 <!DOCTYPE html>
 <html lang="de">
 <head>
