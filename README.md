@@ -5,7 +5,6 @@ Interjejktionen
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Interjektionen im DWDS-Wörterbuch</title>
 </head>
 <body>
 <h1>Interjektionen im DWDS-Wörterbuch</h1>
