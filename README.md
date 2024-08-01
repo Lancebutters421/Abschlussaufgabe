@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="de">
 <head>
 <meta charset="UTF-8">
@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Interjektionen im DWDS-Wörterbuch</h1>
-<p>Diese Liste enthält alle Interjektionen, die im DWDS-Wörterbuch verzeichnet sind. </h2>
+<p>Diese Liste enthält alle Interjektionen, die im DWDS-Wörterbuch verzeichnet sind. 
 <ul>
     <li><a href="https://www.dwds.de/wb/absolut">absolut</a></li>
     <li><a href="https://www.dwds.de/wb/ach">ach</a></li>
@@ -173,6 +173,5 @@
 <li><a href="https://www.dwds.de/wb/krumm">krumm</a></li>
 <li><a href="https://www.dwds.de/wb/krusch">krusch</a></li>
 </ul>
-</body>
-</html>
+
 
